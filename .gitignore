@@ -1,1 +1,3 @@
-venv # all package dependencies
+venv
+.DS_store
+.vscode/*
